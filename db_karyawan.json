@@ -1,0 +1,32 @@
+{
+  "data-karyawan": [
+    {
+      "id": 1577953084773,
+      "nama_karyawan": "allen saputra",
+      "jabatan": "Security",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "1993-12-08"
+    },
+    {
+      "id": 1577953628705,
+      "nama_karyawan": "Satria",
+      "jabatan": "Marketing",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "1990-12-12"
+    },
+    {
+      "id": 1577953703822,
+      "nama_karyawan": "Putra Agung",
+      "jabatan": "Security",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "1991-12-12"
+    },
+    {
+      "id": 1577957634460,
+      "nama_karyawan": "Gerysena",
+      "jabatan": "Marketing",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "2011-01-31"
+    }
+  ]
+}
